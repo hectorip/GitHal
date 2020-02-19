@@ -1,1 +1,4 @@
-ALGOOOO
+Conflictos
+====
+
+1. Regresar a estado del ultimo checkout
